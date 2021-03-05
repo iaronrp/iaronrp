@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/iaronrp)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iaron-aires-a568b746/)](https://www.linkedin.com/in/iaron-aires-a568b746/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5517991052119&text=Olá!)](https://api.whatsapp.com/send?phone=5517991052119&text=Olá!)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:iaronrp@hotmail.com)](mailto:iaronrp@hotmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078d4?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:iaronrp@hotmail.com)](mailto:iaronrp@hotmail.com)
 
 ---
 
