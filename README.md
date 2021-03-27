@@ -20,10 +20,10 @@
 
 <br/>
 
-<p align="center">
+<details>
   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaronrp&layout=compact&bg_color=ffffff&text_color=333333">
-</p>
+</details>
 <br/>
 
 
