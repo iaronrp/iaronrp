@@ -9,7 +9,7 @@
 
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Angular, Ionic e mais!
 - :books: Never Stop Learning.
-- :ball: Apaixonado por Tecnologia e Futebol
+- ⚽: Passionate about Technology and Football
 
 ---
 
@@ -20,10 +20,10 @@
 
 <br/>
 
-<details>
+<p align="center">
   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaronrp&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
+</p>
 <br/>
 
 
