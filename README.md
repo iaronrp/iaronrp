@@ -18,4 +18,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=iaronrp&show_icons=true" alt="miguelrisquelme"/>
 </p>
 
+<br/>
+
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaronrp&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
+<br/>
+
+
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/iaronrp)](https://github.com/iaronrp)
