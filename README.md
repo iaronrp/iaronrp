@@ -10,7 +10,7 @@
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Angular, Ionic and more!
 - :books: Never Stop Learning.
 - ⚽: Passionate about Technology and Football
-- 🗣️:Ask me about anything [here](https://github.com/iaronrp/iaronrp/issues)
+- 🗣️: Ask me about anything [here](https://github.com/iaronrp/iaronrp/issues)
 
 ---
 
